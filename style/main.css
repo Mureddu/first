@@ -1,0 +1,75 @@
+/*******************general*************/
+
+
+	
+}
+
+p{
+	font-family: montserrat;
+	font-size: 20px;
+}
+body{
+	font-family: montserrat;
+	margin: 0;
+}
+.nav ul{
+	display: inline-block;
+	text-transform: uppercase;
+}
+/*****************header*************/
+
+#header {
+	background-color: green;
+
+}
+
+h1{
+	color: white;
+	font-family: montserrat;
+	font-size: 50px;
+	font-weight: bold;
+	letter-spacing: 3px;
+	text-align: center;
+	text-transform: capitalize;
+	margin: 0;
+	padding: 20px;
+	text-decoration: none;
+}
+
+h2{
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+#nav{
+	background-color: darkgrey;
+	text-align: center;
+	list-style-type: none;
+}
+
+#nav li{
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+
+}
+
+#nav li a{
+	color: red;
+	text-transform: uppercase;
+}
+
+#nav li:hover{
+	background-color: green;
+}
+/*****************content*************/
+
+#content {
+	width: 600px;
+	margin: 30px auto;
+
+}
+
+#content h3{
+	border-bottom: green solid 3px;
+}
